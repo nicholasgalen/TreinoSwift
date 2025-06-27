@@ -2,10 +2,11 @@
 //  main.swift
 //  TreinoSwift
 //
-//  Created by Ana Paula Marcal Franzoi on 27/06/25.
+//  Created by Nicholas Galen on 27/06/25.
 //
 
 import Foundation
 
-print("Hello, World!")
-
+// Exercicio 1
+parOuImpar(num: 8)
+parOuImpar(num: 3)
