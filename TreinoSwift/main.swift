@@ -16,4 +16,6 @@ parOuImpar(num: 3)
 fatorial(num: 5)
 fatorial(num: 10)
 
-
+// Exercicio 3
+print(primo(9))
+print(primo(5))

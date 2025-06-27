@@ -10,6 +10,7 @@
 		1880C3CE2E0EE9300052AFAA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3CD2E0EE9300052AFAA /* main.swift */; };
 		1880C3D62E0EEA110052AFAA /* Exercicio1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3D52E0EEA110052AFAA /* Exercicio1.swift */; };
 		1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3D72E0EEC360052AFAA /* Exercicio2.swift */; };
+		1880C3DB2E0EEF690052AFAA /* Exercicio3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3DA2E0EEF690052AFAA /* Exercicio3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +31,7 @@
 		1880C3D52E0EEA110052AFAA /* Exercicio1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio1.swift; sourceTree = "<group>"; };
 		1880C3D72E0EEC360052AFAA /* Exercicio2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio2.swift; sourceTree = "<group>"; };
 		1880C3D92E0EEEB20052AFAA /* Exercicios.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Exercicios.md; sourceTree = "<group>"; };
+		1880C3DA2E0EEF690052AFAA /* Exercicio3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			children = (
 				1880C3D52E0EEA110052AFAA /* Exercicio1.swift */,
 				1880C3D72E0EEC360052AFAA /* Exercicio2.swift */,
+				1880C3DA2E0EEF690052AFAA /* Exercicio3.swift */,
 			);
 			path = LogicaProgramacao;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1880C3CE2E0EE9300052AFAA /* main.swift in Sources */,
+				1880C3DB2E0EEF690052AFAA /* Exercicio3.swift in Sources */,
 				1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */,
 				1880C3D62E0EEA110052AFAA /* Exercicio1.swift in Sources */,
 			);
