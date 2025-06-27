@@ -11,6 +11,8 @@
 		1880C3D62E0EEA110052AFAA /* Exercicio1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3D52E0EEA110052AFAA /* Exercicio1.swift */; };
 		1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3D72E0EEC360052AFAA /* Exercicio2.swift */; };
 		1880C3DB2E0EEF690052AFAA /* Exercicio3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3DA2E0EEF690052AFAA /* Exercicio3.swift */; };
+		1880C3DD2E0EF23B0052AFAA /* Exercicio4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3DC2E0EF23B0052AFAA /* Exercicio4.swift */; };
+		1880C3DF2E0EF3CD0052AFAA /* Exercicio5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3DE2E0EF3CD0052AFAA /* Exercicio5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +34,8 @@
 		1880C3D72E0EEC360052AFAA /* Exercicio2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio2.swift; sourceTree = "<group>"; };
 		1880C3D92E0EEEB20052AFAA /* Exercicios.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Exercicios.md; sourceTree = "<group>"; };
 		1880C3DA2E0EEF690052AFAA /* Exercicio3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio3.swift; sourceTree = "<group>"; };
+		1880C3DC2E0EF23B0052AFAA /* Exercicio4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio4.swift; sourceTree = "<group>"; };
+		1880C3DE2E0EF3CD0052AFAA /* Exercicio5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 				1880C3D52E0EEA110052AFAA /* Exercicio1.swift */,
 				1880C3D72E0EEC360052AFAA /* Exercicio2.swift */,
 				1880C3DA2E0EEF690052AFAA /* Exercicio3.swift */,
+				1880C3DC2E0EF23B0052AFAA /* Exercicio4.swift */,
+				1880C3DE2E0EF3CD0052AFAA /* Exercicio5.swift */,
 			);
 			path = LogicaProgramacao;
 			sourceTree = "<group>";
@@ -142,7 +148,9 @@
 				1880C3CE2E0EE9300052AFAA /* main.swift in Sources */,
 				1880C3DB2E0EEF690052AFAA /* Exercicio3.swift in Sources */,
 				1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */,
+				1880C3DF2E0EF3CD0052AFAA /* Exercicio5.swift in Sources */,
 				1880C3D62E0EEA110052AFAA /* Exercicio1.swift in Sources */,
+				1880C3DD2E0EF23B0052AFAA /* Exercicio4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
