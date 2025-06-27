@@ -13,6 +13,11 @@
 		1880C3DB2E0EEF690052AFAA /* Exercicio3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3DA2E0EEF690052AFAA /* Exercicio3.swift */; };
 		1880C3DD2E0EF23B0052AFAA /* Exercicio4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3DC2E0EF23B0052AFAA /* Exercicio4.swift */; };
 		1880C3DF2E0EF3CD0052AFAA /* Exercicio5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3DE2E0EF3CD0052AFAA /* Exercicio5.swift */; };
+		1880C3E12E0EF7690052AFAA /* Exercicio6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3E02E0EF7690052AFAA /* Exercicio6.swift */; };
+		1880C3E32E0EF9FD0052AFAA /* Exercicio7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3E22E0EF9FD0052AFAA /* Exercicio7.swift */; };
+		1880C3E52E0EFAF20052AFAA /* Exercicio8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3E42E0EFAF20052AFAA /* Exercicio8.swift */; };
+		1880C3E72E0EFC770052AFAA /* Exercicio9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3E62E0EFC770052AFAA /* Exercicio9.swift */; };
+		1880C3E92E0EFDFB0052AFAA /* Exercicio10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3E82E0EFDFB0052AFAA /* Exercicio10.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +41,11 @@
 		1880C3DA2E0EEF690052AFAA /* Exercicio3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio3.swift; sourceTree = "<group>"; };
 		1880C3DC2E0EF23B0052AFAA /* Exercicio4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio4.swift; sourceTree = "<group>"; };
 		1880C3DE2E0EF3CD0052AFAA /* Exercicio5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio5.swift; sourceTree = "<group>"; };
+		1880C3E02E0EF7690052AFAA /* Exercicio6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio6.swift; sourceTree = "<group>"; };
+		1880C3E22E0EF9FD0052AFAA /* Exercicio7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio7.swift; sourceTree = "<group>"; };
+		1880C3E42E0EFAF20052AFAA /* Exercicio8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio8.swift; sourceTree = "<group>"; };
+		1880C3E62E0EFC770052AFAA /* Exercicio9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio9.swift; sourceTree = "<group>"; };
+		1880C3E82E0EFDFB0052AFAA /* Exercicio10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio10.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +93,11 @@
 				1880C3DA2E0EEF690052AFAA /* Exercicio3.swift */,
 				1880C3DC2E0EF23B0052AFAA /* Exercicio4.swift */,
 				1880C3DE2E0EF3CD0052AFAA /* Exercicio5.swift */,
+				1880C3E02E0EF7690052AFAA /* Exercicio6.swift */,
+				1880C3E22E0EF9FD0052AFAA /* Exercicio7.swift */,
+				1880C3E42E0EFAF20052AFAA /* Exercicio8.swift */,
+				1880C3E62E0EFC770052AFAA /* Exercicio9.swift */,
+				1880C3E82E0EFDFB0052AFAA /* Exercicio10.swift */,
 			);
 			path = LogicaProgramacao;
 			sourceTree = "<group>";
@@ -145,12 +160,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1880C3E12E0EF7690052AFAA /* Exercicio6.swift in Sources */,
 				1880C3CE2E0EE9300052AFAA /* main.swift in Sources */,
 				1880C3DB2E0EEF690052AFAA /* Exercicio3.swift in Sources */,
 				1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */,
 				1880C3DF2E0EF3CD0052AFAA /* Exercicio5.swift in Sources */,
+				1880C3E32E0EF9FD0052AFAA /* Exercicio7.swift in Sources */,
+				1880C3E92E0EFDFB0052AFAA /* Exercicio10.swift in Sources */,
+				1880C3E52E0EFAF20052AFAA /* Exercicio8.swift in Sources */,
 				1880C3D62E0EEA110052AFAA /* Exercicio1.swift in Sources */,
 				1880C3DD2E0EF23B0052AFAA /* Exercicio4.swift in Sources */,
+				1880C3E72E0EFC770052AFAA /* Exercicio9.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

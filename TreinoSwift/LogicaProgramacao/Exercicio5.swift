@@ -2,7 +2,7 @@
 //  Exercicio5.swift
 //  TreinoSwift
 //
-//  Created by Ana Paula Marcal Franzoi on 27/06/25.
+//  Created by Nicholas Galen on 27/06/25.
 //
 
 // while, array, switch - Exercicio 5. Fibonacci
