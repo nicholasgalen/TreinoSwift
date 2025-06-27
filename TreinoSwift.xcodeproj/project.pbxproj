@@ -18,6 +18,11 @@
 		1880C3E52E0EFAF20052AFAA /* Exercicio8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3E42E0EFAF20052AFAA /* Exercicio8.swift */; };
 		1880C3E72E0EFC770052AFAA /* Exercicio9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3E62E0EFC770052AFAA /* Exercicio9.swift */; };
 		1880C3E92E0EFDFB0052AFAA /* Exercicio10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3E82E0EFDFB0052AFAA /* Exercicio10.swift */; };
+		1880C3EE2E0F19BB0052AFAA /* Exercicio1Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3ED2E0F19BB0052AFAA /* Exercicio1Classes.swift */; };
+		1880C3F02E0F1BB10052AFAA /* Exercicio2Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3EF2E0F1BB10052AFAA /* Exercicio2Classes.swift */; };
+		1880C3F22E0F1ED10052AFAA /* Exercicio3Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3F12E0F1ED10052AFAA /* Exercicio3Classes.swift */; };
+		1880C3F42E0F22050052AFAA /* Exercicio4Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3F32E0F22050052AFAA /* Exercicio4Classes.swift */; };
+		1880C3F62E0F23A70052AFAA /* Exercicio5Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3F52E0F23A70052AFAA /* Exercicio5Classes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +51,11 @@
 		1880C3E42E0EFAF20052AFAA /* Exercicio8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio8.swift; sourceTree = "<group>"; };
 		1880C3E62E0EFC770052AFAA /* Exercicio9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio9.swift; sourceTree = "<group>"; };
 		1880C3E82E0EFDFB0052AFAA /* Exercicio10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio10.swift; sourceTree = "<group>"; };
+		1880C3ED2E0F19BB0052AFAA /* Exercicio1Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio1Classes.swift; sourceTree = "<group>"; };
+		1880C3EF2E0F1BB10052AFAA /* Exercicio2Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio2Classes.swift; sourceTree = "<group>"; };
+		1880C3F12E0F1ED10052AFAA /* Exercicio3Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio3Classes.swift; sourceTree = "<group>"; };
+		1880C3F32E0F22050052AFAA /* Exercicio4Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio4Classes.swift; sourceTree = "<group>"; };
+		1880C3F52E0F23A70052AFAA /* Exercicio5Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio5Classes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +88,7 @@
 		1880C3CC2E0EE9300052AFAA /* TreinoSwift */ = {
 			isa = PBXGroup;
 			children = (
+				1880C3EA2E0F18D50052AFAA /* Classes */,
 				1880C3D42E0EE9F70052AFAA /* LogicaProgramacao */,
 				1880C3CD2E0EE9300052AFAA /* main.swift */,
 				1880C3D92E0EEEB20052AFAA /* Exercicios.md */,
@@ -100,6 +111,18 @@
 				1880C3E82E0EFDFB0052AFAA /* Exercicio10.swift */,
 			);
 			path = LogicaProgramacao;
+			sourceTree = "<group>";
+		};
+		1880C3EA2E0F18D50052AFAA /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1880C3ED2E0F19BB0052AFAA /* Exercicio1Classes.swift */,
+				1880C3EF2E0F1BB10052AFAA /* Exercicio2Classes.swift */,
+				1880C3F12E0F1ED10052AFAA /* Exercicio3Classes.swift */,
+				1880C3F32E0F22050052AFAA /* Exercicio4Classes.swift */,
+				1880C3F52E0F23A70052AFAA /* Exercicio5Classes.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -160,11 +183,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1880C3F62E0F23A70052AFAA /* Exercicio5Classes.swift in Sources */,
 				1880C3E12E0EF7690052AFAA /* Exercicio6.swift in Sources */,
+				1880C3F42E0F22050052AFAA /* Exercicio4Classes.swift in Sources */,
 				1880C3CE2E0EE9300052AFAA /* main.swift in Sources */,
+				1880C3F22E0F1ED10052AFAA /* Exercicio3Classes.swift in Sources */,
 				1880C3DB2E0EEF690052AFAA /* Exercicio3.swift in Sources */,
 				1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */,
+				1880C3EE2E0F19BB0052AFAA /* Exercicio1Classes.swift in Sources */,
 				1880C3DF2E0EF3CD0052AFAA /* Exercicio5.swift in Sources */,
+				1880C3F02E0F1BB10052AFAA /* Exercicio2Classes.swift in Sources */,
 				1880C3E32E0EF9FD0052AFAA /* Exercicio7.swift in Sources */,
 				1880C3E92E0EFDFB0052AFAA /* Exercicio10.swift in Sources */,
 				1880C3E52E0EFAF20052AFAA /* Exercicio8.swift in Sources */,
