@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1880C3CE2E0EE9300052AFAA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3CD2E0EE9300052AFAA /* main.swift */; };
 		1880C3D62E0EEA110052AFAA /* Exercicio1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3D52E0EEA110052AFAA /* Exercicio1.swift */; };
+		1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3D72E0EEC360052AFAA /* Exercicio2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,8 @@
 		1880C3CA2E0EE9300052AFAA /* TreinoSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TreinoSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		1880C3CD2E0EE9300052AFAA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1880C3D52E0EEA110052AFAA /* Exercicio1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio1.swift; sourceTree = "<group>"; };
+		1880C3D72E0EEC360052AFAA /* Exercicio2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio2.swift; sourceTree = "<group>"; };
+		1880C3D92E0EEEB20052AFAA /* Exercicios.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Exercicios.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,7 @@
 			children = (
 				1880C3D42E0EE9F70052AFAA /* LogicaProgramacao */,
 				1880C3CD2E0EE9300052AFAA /* main.swift */,
+				1880C3D92E0EEEB20052AFAA /* Exercicios.md */,
 			);
 			path = TreinoSwift;
 			sourceTree = "<group>";
@@ -69,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				1880C3D52E0EEA110052AFAA /* Exercicio1.swift */,
+				1880C3D72E0EEC360052AFAA /* Exercicio2.swift */,
 			);
 			path = LogicaProgramacao;
 			sourceTree = "<group>";
@@ -132,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1880C3CE2E0EE9300052AFAA /* main.swift in Sources */,
+				1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */,
 				1880C3D62E0EEA110052AFAA /* Exercicio1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

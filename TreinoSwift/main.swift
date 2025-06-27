@@ -10,3 +10,10 @@ import Foundation
 // Exercicio 1
 parOuImpar(num: 8)
 parOuImpar(num: 3)
+
+
+// Exercicio 2
+fatorial(num: 5)
+fatorial(num: 10)
+
+
