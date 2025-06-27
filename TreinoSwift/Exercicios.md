@@ -29,16 +29,10 @@
 | 10. Usar `enum` para status de tarefa           | `enum`, `switch`                             |
 
 # Estrutura de dados
-| Exercício                                    | Conceitos                           |
-| -------------------------------------------- | ----------------------------------- |
-| 1. Lista de inteiros e operações básicas     | `Array.append()`, `remove`, `count` |
-| 2. Criar agenda telefônica                   | `Dictionary<String, String>`        |
-| 3. Encontrar duplicatas em array             | `Set`, `contains()`                 |
-| 4. Contar frequência de palavras             | `Dictionary`, loops                 |
-| 5. Tupla para coordenadas                    | `(x: Int, y: Int)`                  |
-| 6. Ordenar lista de structs `Aluno` por nota | `sort { $0.nota > $1.nota }`        |
-| 7. Filtrar nomes com mais de 5 letras        | `filter`                            |
-| 8. Mapear array de inteiros para strings     | `map`, `String(n)`                  |
-| 9. Remover duplicatas mantendo ordem         | `Set` + lógica manual               |
-| 10. Usar `Dictionary` com `enum` como chave  | enums como keys                     |
-
+| Exercício                        | Conceitos principais                  |
+| -------------------------------- | ------------------------------------- |
+| 1. Soma de elementos em Array    | `Array`, `for`, `reduce`              |
+| 2. Remover duplicatas em Array   | `Set`, `Array`, conversão entre tipos |
+| 3. Contar frequência de palavras | `Dictionary<String, Int>`, loops      |
+| 4. Implementar Fila (Queue)      | `struct`, `Array`, métodos mutating   |
+| 5. Implementar Pilha (Stack)     | `struct`, `Array`, métodos mutating   | 

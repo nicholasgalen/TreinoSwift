@@ -93,3 +93,14 @@ var b2 = a1
 b2.x = 99
 print(a1.x) // 99 -> classe passa valor como referencia
 print(b2.x) // 99
+
+// Exercicio 6 classe com propriedade computada
+var q = Quadrado(largura: 2, altura: 4)
+print(q.area)
+
+// Exercicio 7 Modificadores de acesso e interfaces
+var pix = Pix(qrcode: "v437by3gunfewiufbasiufb3", cpf: "123.456.789-00")
+var paypal = Paypal(email: "nicholasgalen@gmail.com", conta: "nicholasgalen123")
+
+pix.paymentInfo()
+paypal.paymentInfo()
