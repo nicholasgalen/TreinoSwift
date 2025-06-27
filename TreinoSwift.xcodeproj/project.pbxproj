@@ -25,6 +25,9 @@
 		1880C3F62E0F23A70052AFAA /* Exercicio5Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3F52E0F23A70052AFAA /* Exercicio5Classes.swift */; };
 		1880C3F82E0F28C30052AFAA /* Exercicio6Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3F72E0F28C30052AFAA /* Exercicio6Classes.swift */; };
 		1880C3FA2E0F299B0052AFAA /* Exercicio7Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3F92E0F299B0052AFAA /* Exercicio7Classes.swift */; };
+		1880C3FC2E0F2FE30052AFAA /* Exercicio8Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3FB2E0F2FE30052AFAA /* Exercicio8Classes.swift */; };
+		1880C3FE2E0F31C00052AFAA /* Exercicio9Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3FD2E0F31C00052AFAA /* Exercicio9Classes.swift */; };
+		1880C4002E0F336B0052AFAA /* Exercicio10Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3FF2E0F336B0052AFAA /* Exercicio10Classes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -60,6 +63,9 @@
 		1880C3F52E0F23A70052AFAA /* Exercicio5Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio5Classes.swift; sourceTree = "<group>"; };
 		1880C3F72E0F28C30052AFAA /* Exercicio6Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio6Classes.swift; sourceTree = "<group>"; };
 		1880C3F92E0F299B0052AFAA /* Exercicio7Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio7Classes.swift; sourceTree = "<group>"; };
+		1880C3FB2E0F2FE30052AFAA /* Exercicio8Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio8Classes.swift; sourceTree = "<group>"; };
+		1880C3FD2E0F31C00052AFAA /* Exercicio9Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio9Classes.swift; sourceTree = "<group>"; };
+		1880C3FF2E0F336B0052AFAA /* Exercicio10Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio10Classes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +133,9 @@
 				1880C3F52E0F23A70052AFAA /* Exercicio5Classes.swift */,
 				1880C3F72E0F28C30052AFAA /* Exercicio6Classes.swift */,
 				1880C3F92E0F299B0052AFAA /* Exercicio7Classes.swift */,
+				1880C3FB2E0F2FE30052AFAA /* Exercicio8Classes.swift */,
+				1880C3FD2E0F31C00052AFAA /* Exercicio9Classes.swift */,
+				1880C3FF2E0F336B0052AFAA /* Exercicio10Classes.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -197,6 +206,7 @@
 				1880C3DB2E0EEF690052AFAA /* Exercicio3.swift in Sources */,
 				1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */,
 				1880C3EE2E0F19BB0052AFAA /* Exercicio1Classes.swift in Sources */,
+				1880C3FC2E0F2FE30052AFAA /* Exercicio8Classes.swift in Sources */,
 				1880C3DF2E0EF3CD0052AFAA /* Exercicio5.swift in Sources */,
 				1880C3F02E0F1BB10052AFAA /* Exercicio2Classes.swift in Sources */,
 				1880C3E32E0EF9FD0052AFAA /* Exercicio7.swift in Sources */,
@@ -207,6 +217,8 @@
 				1880C3FA2E0F299B0052AFAA /* Exercicio7Classes.swift in Sources */,
 				1880C3F82E0F28C30052AFAA /* Exercicio6Classes.swift in Sources */,
 				1880C3E72E0EFC770052AFAA /* Exercicio9.swift in Sources */,
+				1880C3FE2E0F31C00052AFAA /* Exercicio9Classes.swift in Sources */,
+				1880C4002E0F336B0052AFAA /* Exercicio10Classes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

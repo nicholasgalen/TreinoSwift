@@ -104,3 +104,19 @@ var paypal = Paypal(email: "nicholasgalen@gmail.com", conta: "nicholasgalen123")
 
 pix.paymentInfo()
 paypal.paymentInfo()
+
+// Exercicio 8 Guard e init?
+var doacao1 = Doacao(valor: 5)
+var doacao2 = Doacao(valor: -5)
+print(doacao1?.valor ?? 0) // pega o valor opcional, se for null retorna 0
+print(doacao2?.valor ?? 0)
+
+
+// Exercicio 9 static
+var loja1 = Produto()
+var loja2 = Produto()
+print(Produto.qtdProdutos) // valor global para todas as instancias da classe Produto
+
+// Exercicio 10 enum
+var status = StatusTarefa.concluida
+descreverStatus(status: status)
