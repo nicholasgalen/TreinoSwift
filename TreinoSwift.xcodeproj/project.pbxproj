@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		187DCE932E0F35F500271985 /* Exercicio1EDD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187DCE922E0F35F500271985 /* Exercicio1EDD.swift */; };
 		1880C3CE2E0EE9300052AFAA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3CD2E0EE9300052AFAA /* main.swift */; };
 		1880C3D62E0EEA110052AFAA /* Exercicio1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3D52E0EEA110052AFAA /* Exercicio1.swift */; };
 		1880C3D82E0EEC360052AFAA /* Exercicio2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1880C3D72E0EEC360052AFAA /* Exercicio2.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		187DCE922E0F35F500271985 /* Exercicio1EDD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio1EDD.swift; sourceTree = "<group>"; };
 		1880C3CA2E0EE9300052AFAA /* TreinoSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TreinoSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		1880C3CD2E0EE9300052AFAA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1880C3D52E0EEA110052AFAA /* Exercicio1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio1.swift; sourceTree = "<group>"; };
@@ -79,6 +81,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		187DCE912E0F35D700271985 /* EstruturaDeDados */ = {
+			isa = PBXGroup;
+			children = (
+				187DCE922E0F35F500271985 /* Exercicio1EDD.swift */,
+			);
+			path = EstruturaDeDados;
+			sourceTree = "<group>";
+		};
 		1880C3C12E0EE9300052AFAA = {
 			isa = PBXGroup;
 			children = (
@@ -98,6 +108,7 @@
 		1880C3CC2E0EE9300052AFAA /* TreinoSwift */ = {
 			isa = PBXGroup;
 			children = (
+				187DCE912E0F35D700271985 /* EstruturaDeDados */,
 				1880C3EA2E0F18D50052AFAA /* Classes */,
 				1880C3D42E0EE9F70052AFAA /* LogicaProgramacao */,
 				1880C3CD2E0EE9300052AFAA /* main.swift */,
@@ -213,6 +224,7 @@
 				1880C3E92E0EFDFB0052AFAA /* Exercicio10.swift in Sources */,
 				1880C3E52E0EFAF20052AFAA /* Exercicio8.swift in Sources */,
 				1880C3D62E0EEA110052AFAA /* Exercicio1.swift in Sources */,
+				187DCE932E0F35F500271985 /* Exercicio1EDD.swift in Sources */,
 				1880C3DD2E0EF23B0052AFAA /* Exercicio4.swift in Sources */,
 				1880C3FA2E0F299B0052AFAA /* Exercicio7Classes.swift in Sources */,
 				1880C3F82E0F28C30052AFAA /* Exercicio6Classes.swift in Sources */,

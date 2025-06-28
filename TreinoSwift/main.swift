@@ -120,3 +120,10 @@ print(Produto.qtdProdutos) // valor global para todas as instancias da classe Pr
 // Exercicio 10 enum
 var status = StatusTarefa.concluida
 descreverStatus(status: status)
+
+print()
+print("===================================")
+print("Estrutura de Dados")
+print()
+
+
